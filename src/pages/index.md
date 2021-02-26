@@ -31,7 +31,7 @@ sections:
         type: action
         url: 'https://www.linkedin.com/in/drjesusvalenzuela/'
       - style: link
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
         new_window: false
