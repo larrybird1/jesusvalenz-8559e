@@ -41,7 +41,7 @@ sections:
         no_follow: false
         type: action
       - label: Contacto
-        url: /pricing
+        url: /contact
         style: primary
       - label: Learn More
         url: /features
