@@ -135,7 +135,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: 'cirugía de '
+        image_alt: cirugía de absceso y fístula perianal en Guadalajara
         image_position: top
         image_width: twenty-five
         image_align: left
