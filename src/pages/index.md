@@ -156,7 +156,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: 'tratamiento incontinencia '
+        image_alt: tratamiento incontinencia anal en Guadalajara
         image_position: top
         image_width: fifty
         image_align: left
