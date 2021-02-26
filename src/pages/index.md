@@ -98,7 +98,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-        image_width: fifty
+        image_width: twenty-five
       - title: Section Item 3
         title_align: left
         content: >-
