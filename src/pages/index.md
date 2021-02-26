@@ -245,6 +245,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+    title: Vanguardia en Detección
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
