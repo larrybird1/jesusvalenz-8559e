@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Dr. Jesús Alonso Valenzuela Pérez
     subtitle: Cirujano Gastrointestinal y Coloproctólogo
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      ***Certificación C11005518***
     actions:
       - style: link
         has_icon: true
