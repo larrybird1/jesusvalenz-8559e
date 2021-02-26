@@ -245,7 +245,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
-    title: Ultrasonido Endo-Anal y Endorrectal.
   - type: grid_section
     title: Image Grid
     subtitle: Grid Section Example
