@@ -30,8 +30,7 @@ sections:
         no_follow: false
         type: action
         url: 'https://www.linkedin.com/in/drjesusvalenzuela/'
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
