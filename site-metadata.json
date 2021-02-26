@@ -8,7 +8,7 @@
         "title": "Dr. Jesús Valenzuela",
         "logo": "images/cirujano-coloproctologo-en-guadalajara.png",
         "logo_alt": "cirugía de hemorroides en guadalajara",
-        "has_primary_nav": true,
+        "has_primary_nav": false,
         "primary_nav_links": [
             {
                 "label": "Features",
