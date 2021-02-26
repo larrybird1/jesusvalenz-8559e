@@ -64,7 +64,7 @@ sections:
     subtitle: >-
       Cirujano General, Cuento con amplia experiencia en cualquier tipo de
       enfermedad gastrointestinal y de colon, recto y ano, amplia experiencia y
-      vanguardia en **diagnóstico** y tratamiento
+      vanguardia en **diagnóstico y tratamiento
     grid_items:
       - title: Section Item 1
         title_align: left
