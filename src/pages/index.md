@@ -8,12 +8,6 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
-      - label: Try Free
-        url: /pricing
-        style: primary
-      - label: Learn More
-        url: /features
-        style: secondary
       - url: 'https://www.facebook.com/drjesusvalenzuela'
         style: link
         has_icon: true
@@ -22,6 +16,12 @@ sections:
         new_window: true
         no_follow: false
         type: action
+      - label: Try Free
+        url: /pricing
+        style: primary
+      - label: Learn More
+        url: /features
+        style: secondary
       - style: link
         has_icon: true
         icon: linkedin
