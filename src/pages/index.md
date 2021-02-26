@@ -40,7 +40,7 @@ sections:
         new_window: true
         no_follow: false
         type: action
-      - label: Try Free
+      - label: Contacto
         url: /pricing
         style: primary
       - label: Learn More
