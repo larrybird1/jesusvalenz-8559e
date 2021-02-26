@@ -190,7 +190,7 @@ sections:
   - type: features_section
     subtitle: Mi misión es obtener un diagnóstico adecuado.
     features:
-      - title: The Big Title For the Feature
+      - title: Ultrasonido Endo-Anal y Endorrectal
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
