@@ -16,7 +16,7 @@ sections:
         style: secondary
       - url: 'https://www.facebook.com/drjesusvalenzuela'
         style: link
-        has_icon: false
+        has_icon: true
         icon: arrow-left
         icon_position: right
         new_window: false
