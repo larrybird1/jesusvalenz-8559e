@@ -191,7 +191,6 @@ sections:
     subtitle: Mi misión es obtener un diagnóstico adecuado.
     features:
       - title: Ultrasonido Endo-Anal y Endorrectal en Guadalajara
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
         content: >
           Una ecografía **endoanal en Guadalajara** evalúa la anatomía del canal
           anal. El examen se realizará utilizando un escáner de ultrasonido
