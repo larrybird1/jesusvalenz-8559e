@@ -18,6 +18,14 @@ sections:
         url: 'https://twitter.com/drjesusvalenz'
       - style: link
         has_icon: true
+        icon: instagram
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
+        url: 'https://www.instagram.com/drjesusvalenzuela/'
+      - style: link
+        has_icon: true
         icon: linkedin
         icon_position: right
         new_window: true
@@ -38,14 +46,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-      - style: link
-        has_icon: true
-        icon: instagram
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-        url: 'https://www.instagram.com/drjesusvalenzuela/'
     image: images/proctologo en guadalajara.svg
     image_alt: Hero section placeholder image
     media_position: left
