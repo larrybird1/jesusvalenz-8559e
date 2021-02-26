@@ -188,7 +188,9 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    subtitle: Mi misión es obtener un diagnóstico adecuado.
+    subtitle: >-
+      Mi objetivo inicial es obtener un diagnóstico adecuado para escoger el
+      tratamiento correcto para su padecimiento.
     features:
       - title: Ultrasonido Endo-Anal y Endorrectal en Guadalajara
         content: >
