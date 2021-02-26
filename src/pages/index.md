@@ -192,10 +192,10 @@ sections:
     features:
       - title: Ultrasonido Endo-Anal y Endorrectal en Guadalajara
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Una ecografía **endoanal en Guadalajara** evalúa la anatomía del canal
+          anal. El examen se realizará utilizando un escáner de ultrasonido
+          colocado dentro del canal anal.
         actions:
           - label: Learn More
             url: /style-guide
