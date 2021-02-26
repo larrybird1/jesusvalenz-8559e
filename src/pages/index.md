@@ -61,7 +61,9 @@ sections:
     background_color: primary
   - type: grid_section
     title: Cards Grid Section
-    subtitle: Grid Section Example
+    subtitle: >-
+      Cuento con amplia experiencia en cualquier tipo de enfermedad
+      gastrointestinal o de colon, recto y ano,
     grid_items:
       - title: Section Item 1
         title_align: left
