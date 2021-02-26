@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Dr. Jesús Alonso Valenzuela Pérez
-    subtitle: Optional hero section subtitle
+    subtitle: Cirujano Gastrointestinal y Coloproctólogo
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
