@@ -188,7 +188,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    subtitle: Importancia de
+    subtitle: Mi misión es obtener un diagnóstico adecuado.
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
