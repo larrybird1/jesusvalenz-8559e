@@ -37,6 +37,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        url: 'https://twitter.com/drjesusvalenz'
     image: images/proctologo en guadalajara.svg
     image_alt: Hero section placeholder image
     media_position: left
