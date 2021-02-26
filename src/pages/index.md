@@ -8,6 +8,14 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
     actions:
+      - style: link
+        has_icon: true
+        icon: linkedin
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
+        url: 'https://www.linkedin.com/in/drjesusvalenzuela/'
       - url: 'https://www.facebook.com/drjesusvalenzuela'
         style: link
         has_icon: true
@@ -22,14 +30,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-      - style: link
-        has_icon: true
-        icon: linkedin
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-        url: 'https://www.linkedin.com/in/drjesusvalenzuela/'
       - style: link
         has_icon: true
         icon: twitter
