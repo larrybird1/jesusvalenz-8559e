@@ -10,6 +10,14 @@ sections:
     actions:
       - style: link
         has_icon: true
+        icon: twitter
+        icon_position: right
+        new_window: true
+        no_follow: false
+        type: action
+        url: 'https://twitter.com/drjesusvalenz'
+      - style: link
+        has_icon: true
         icon: linkedin
         icon_position: right
         new_window: true
@@ -30,14 +38,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-      - style: link
-        has_icon: true
-        icon: twitter
-        icon_position: right
-        new_window: true
-        no_follow: false
-        type: action
-        url: 'https://twitter.com/drjesusvalenz'
       - style: link
         has_icon: true
         icon: instagram
