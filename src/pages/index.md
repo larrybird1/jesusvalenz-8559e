@@ -43,6 +43,7 @@ sections:
       - label: Contacto
         url: /contact
         style: primary
+        has_icon: true
       - label: Learn More
         url: /features
         style: secondary
