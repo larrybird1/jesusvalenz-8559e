@@ -188,7 +188,6 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    title: Ecosonograma anal
     subtitle: Features Section Example
     features:
       - title: The Big Title For the Feature
