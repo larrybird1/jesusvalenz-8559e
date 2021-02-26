@@ -38,8 +38,7 @@ sections:
         no_follow: false
         type: action
         url: 'https://twitter.com/drjesusvalenz'
-      - url: '#'
-        style: link
+      - style: link
         has_icon: false
         icon: arrow-left
         icon_position: right
