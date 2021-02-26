@@ -161,7 +161,6 @@ sections:
         type: grid_item
         image: images/tratamiento-de-incontinencia-anal-en-guadalajara.png
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
