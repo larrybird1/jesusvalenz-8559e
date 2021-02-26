@@ -60,7 +60,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
+    title: Enfermedades Comunes Coloproctología
     subtitle: >-
       Cirujano General, Cuento con amplia experiencia en cualquier tipo de
       enfermedad gastrointestinal y de colon, recto y ano, amplia experiencia y
