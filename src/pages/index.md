@@ -29,6 +29,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        url: 'https://www.linkedin.com/in/drjesusvalenzuela/'
     image: images/proctologo en guadalajara.svg
     image_alt: Hero section placeholder image
     media_position: left
