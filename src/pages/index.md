@@ -196,7 +196,7 @@ sections:
           anal. El examen se realizará utilizando un escáner de ultrasonido
           colocado dentro del canal anal.
         actions:
-          - label: Learn More
+          - label: Más información
             url: /style-guide
             style: primary
             has_icon: true
