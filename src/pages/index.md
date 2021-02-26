@@ -188,9 +188,7 @@ sections:
     align: center
     background_color: none
   - type: features_section
-    subtitle: >-
-      La ecografía endoanal es actualmente el estándar de oro para diagnóstico
-      proctológico
+    subtitle: Importancia de
     features:
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
