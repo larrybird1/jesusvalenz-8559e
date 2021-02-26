@@ -156,7 +156,7 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: 'tratamiento incontinencia '
         image_position: top
         image_width: fifty
         image_align: left
