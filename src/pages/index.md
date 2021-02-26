@@ -34,7 +34,7 @@ sections:
         has_icon: true
         icon: twitter
         icon_position: right
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
         url: 'https://twitter.com/drjesusvalenz'
