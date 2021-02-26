@@ -32,7 +32,7 @@ sections:
         url: 'https://www.linkedin.com/in/drjesusvalenzuela/'
       - style: link
         has_icon: true
-        icon: arrow-left
+        icon: twitter
         icon_position: right
         new_window: false
         no_follow: false
