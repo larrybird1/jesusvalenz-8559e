@@ -86,10 +86,7 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Tratamiento de todo tipo de cáncer Anorrectal:\n\n*   Cáncer de Colon\n\n*\r    Cáncer de Recto\n\n*\r    Cáncer de Ano\n"
         content_align: left
         actions:
           - label: Learn More
