@@ -225,8 +225,7 @@ sections:
           tejido húmedo delgado que recubre el ano
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
