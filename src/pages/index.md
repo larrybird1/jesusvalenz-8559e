@@ -89,11 +89,11 @@ sections:
         content: |
           Tratamiento de todo tipo de cáncer Anorrectal:
 
-          *   Cáncer de Colon
-
-          *   Cáncer de Recto
+          *   Cáncer de Colon, detección y tratamiento
 
           *   Cáncer de Ano
+
+          *   Cáncer de Recto
         content_align: left
         actions:
           - label: Learn More
