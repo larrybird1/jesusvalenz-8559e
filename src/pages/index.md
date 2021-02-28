@@ -199,6 +199,19 @@ sections:
         content: >
           La incontinencia fecal es la incapacidad que tiene una persona de
           controlar la materia fecal al través del conducto anal
+
+
+          Muchos tratamientos eficaces pueden ayudar a las personas con
+          incontinencia intestinal. Éstas incluyen:
+
+
+          *   Medicamento
+
+
+          *   Cirugía
+
+
+          *   Procedimientos mínimamente invasivos
         content_align: left
         actions:
           - url: '#'
