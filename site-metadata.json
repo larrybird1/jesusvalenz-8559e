@@ -47,7 +47,7 @@
                 "label": "3316524679",
                 "url": "tel:3316524679",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": false
             }
         ],
         "has_anncmnt": true,
