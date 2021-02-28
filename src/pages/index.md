@@ -60,7 +60,16 @@ sections:
     grid_items:
       - title: Hemorroides
         title_align: left
-        content: "Tratamiento de hemorroides sin dolor\r\nTratamiento láser hemorroides\r\nHemorroidectomía en Guadalajara\r\nLigadura con banda elástica de las hemorroides\r\nTratamiento TDH\n\n\n\n\n\n\n\n\n\n"
+        content: |
+          *   Tratamiento de hemorroides sin dolor
+
+          *   Tratamiento láser hemorroides
+
+          *   Hemorroidectomía en Guadalajara
+
+          *   Ligadura con banda elástica de las hemorroides
+
+          *   Tratamiento TDH
         content_align: left
         actions:
           - label: Learn More
