@@ -233,9 +233,17 @@ sections:
         image: images/tratamiento-de-incontinencia-anal-en-guadalajara.png
       - title: Fisura Anal
         title_align: left
-        content: >
+        content: >+
           Fisura anal en Guadalajara es una pequeña grieta o desgarro en el
           tejido húmedo delgado que recubre el ano
+
+
+          Los síntomas son dolor durante los movimientos intestinales, sensación
+          de ardor profundo después de las deposiciones, que pueden durar hasta
+          varias horas, un desgarro visible en la piel que está alrededor del
+          ano, un bulto de piel cerca de la fisura anal, picazón crónica en la
+          zona anal, sangre roja brillante en las heces o papel higiénico.
+
         content_align: left
         actions:
           - url: '#'
