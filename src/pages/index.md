@@ -202,7 +202,7 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/tratamiento-de-incontinencia-anal-en-guadalajara.png
-      - title: lorem-ipsum
+      - title: Fisura Anal
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
