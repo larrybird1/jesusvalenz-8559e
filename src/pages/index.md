@@ -84,7 +84,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Cáncer
         title_align: left
         content: |
           Tratamiento de todo tipo de cáncer Anorrectal:
