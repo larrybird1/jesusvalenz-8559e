@@ -146,14 +146,35 @@ sections:
         image_has_padding: true
       - title: Absceso y Fístulas Perianales
         title_align: left
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >+
+          *   Fistulotomía con seton de corte
 
 
-          *   Lorem ipsum
+          *   Fístula perianal simple y compleja
 
-          *   dolor sit amet
+
+          *   Fistula perianal compleja, mapeada preoperatoriamente con
+          ultrasonido endoanal de 360 grados en 2d y 3d
+
+
+          *   Mapeo de fístula perianal con azul de metileno
+
+
+          *   Fistulotomía tradicional
+
+
+          *   Fístula recto vaginal - cirugía lift
+
+
+
+
+
+
+
+
+
+
+
         content_align: left
         actions: []
         actions_align: left
