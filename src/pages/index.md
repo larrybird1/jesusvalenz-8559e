@@ -200,7 +200,16 @@ sections:
           La incontinencia fecal es la incapacidad que tiene una persona de
           controlar la materia fecal al través del conducto anal
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
         actions_align: left
         actions_width: auto
         image_alt: tratamiento incontinencia anal en Guadalajara
