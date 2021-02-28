@@ -189,13 +189,8 @@ sections:
       - title: Incontinencia Fecal
         title_align: left
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+          La incontinencia fecal es la incapacidad que tiene una persona de
+          controlar la materia fecal al través del conducto anal
         content_align: left
         actions: []
         actions_align: left
