@@ -58,7 +58,7 @@ sections:
       enfermedad gastrointestinal y de colon, recto y ano, amplia experiencia y
       vanguardia en diagnóstico y tratamiento
     grid_items:
-      - title: Section Item 1
+      - title: Hemorroides
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
