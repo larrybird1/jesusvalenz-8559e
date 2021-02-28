@@ -201,8 +201,7 @@ sections:
           controlar la materia fecal al través del conducto anal
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
