@@ -111,10 +111,25 @@ sections:
         image_width: twenty-five
       - title: Colitis
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |+
+          *   Colitis espástica
+
+          *   Síndrome de Intestino irritable
+
+          *   Colitis Inflamatoria
+
+          *   Colitis Ulcerativa Crónica Inespecífica “CUCI”
+
+          *   Enfermedad de CROHN
+
+
+
+
+
+
+
+
+
         content_align: left
         actions:
           - label: Learn More
