@@ -144,7 +144,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: lorem-ipsum
+      - title: Absceso y Fístulas Perianales
         title_align: left
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
