@@ -86,7 +86,14 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: "Tratamiento de todo tipo de cáncer Anorrectal:\n\n*   Cáncer de Colon\n\n*\r    Cáncer de Recto\n\n*\r    Cáncer de Ano\n"
+        content: |
+          Tratamiento de todo tipo de cáncer Anorrectal:
+
+          *   Cáncer de Colon
+
+          *   Cáncer de Recto
+
+          *   Cáncer de Ano
         content_align: left
         actions:
           - label: Learn More
