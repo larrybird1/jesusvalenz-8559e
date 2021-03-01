@@ -352,28 +352,6 @@ sections:
     align: center
     background_color: secondary
     title: Vanguardia en Detección
-  - type: grid_section
-    align: center
-    grid_items:
-      - image_alt: Contentful logo
-        image_align: center
-      - image_alt: Netlify logo
-        image_align: center
-      - image_alt: Gatsby logo
-        image_align: center
-      - image_alt: Sanity logo
-        image_align: center
-      - image_alt: DatoCMS logo
-        image_align: center
-      - image_alt: Next.js logo
-        image_align: center
-      - image_alt: Gridsome logo
-        image_align: center
-      - image_alt: Git logo
-        image_align: center
-    grid_cols: four
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
   - type: features_section
     features:
       - subtitle: >-
