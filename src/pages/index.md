@@ -331,10 +331,12 @@ sections:
         media_width: fifty
       - title: Cirugía Laparoscópica
         subtitle: También conocida como cirugía mínima invasión
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Hay mucho menos dolor e incomodidad en comparación con la cirugía
+          regular debido a las incisiones más grandes que se hacen en el cuerpo
+          durante la cirugía regular. El efecto resultante de tener menos dolor
+          es que en realidad se necesita menos analgésico para realizar la
+          cirugía y después de la cirugía.
         actions:
           - label: Learn More
             url: /style-guide
