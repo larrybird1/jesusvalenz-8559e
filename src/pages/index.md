@@ -414,7 +414,7 @@ sections:
     align: center
     background_color: secondary
     actions:
-      - label: Google PlLac
+      - label: Google Plac
         url: '#'
         style: link
         has_icon: false
