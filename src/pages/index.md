@@ -390,7 +390,7 @@ sections:
 
 
           **anahi ruelas**
-        image: images/anahi.png
+        image: images/ruelas.png
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
