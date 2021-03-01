@@ -387,7 +387,7 @@ sections:
   - type: features_section
     features:
       - subtitle: >-
-          Cirujano Coloproctólogo en Guadalajara, Dr. Jesús Valenzuela,
+          Cirujano Coloproctólogo en Guadalajara, CiruDr. Jesús Valenzuela,
           Certificación C11005518
         image: images/dr jesus valenzuela.jpeg
         image_alt: Brandon Guidelines
