@@ -403,7 +403,7 @@ sections:
 
 
           **Mary Varela Busaka**
-        image: images/eleanor-carr.png
+        image: images/integral.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
