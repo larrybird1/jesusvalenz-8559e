@@ -386,7 +386,9 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     features:
-      - subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+      - subtitle: >-
+          Cirujano Coloproctólogo en Guadalajara, Dr. Jesús Valenzuela,
+          Certificación C11005518
         image: images/dr jesus valenzuela.jpeg
         image_alt: Brandon Guidelines
         media_position: right
