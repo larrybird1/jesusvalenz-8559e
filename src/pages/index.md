@@ -413,6 +413,16 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
   - type: cta_section
     title: This is Call To Action Section In DIY Theme!
     content: >-
