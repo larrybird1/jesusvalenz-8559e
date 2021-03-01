@@ -299,7 +299,7 @@ sections:
         media_position: right
         media_width: fifty
         align: left
-      - title: Resolvamos su problema de salud
+      - title: Resuelve tu problema de salud
         content: |
           Otros métodos de diagnóstico:
 
