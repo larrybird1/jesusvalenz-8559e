@@ -369,8 +369,7 @@ sections:
         image_align: center
       - image_alt: Gridsome logo
         image_align: center
-      - image: images/logo-8.svg
-        image_alt: Git logo
+      - image_alt: Git logo
         image_align: center
       - title: lorem-ipsum
         subtitle: lorem-ipsum
