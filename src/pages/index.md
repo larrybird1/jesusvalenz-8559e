@@ -381,12 +381,15 @@ sections:
         image_alt: Hanson Deck
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Recomiendo ampliamente al doctor Velenzuela. Siempre es muy
+          profesional su atención y muy atinado su diagnóstico. Todo sus equipos
+          y consultorio muy limpio y muy modernos. Siempre me siento cómoda a
+          pesar de los procedimientos que realiza. Lo recomiendo muchísimo. A mi
+          siempre me ha dado una solución rápida a mis molestias.
 
 
-          **Miles Tone,** *CEO, Studio*
+          **anahi ruelas**
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
