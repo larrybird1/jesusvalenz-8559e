@@ -476,7 +476,7 @@ sections:
       Real](https://www.google.com/maps/place/Hospital+Real+San+Jose+Valle+Real/@20.7215354,-103.4320062,17z/data=!3m1!4b1!4m5!3m4!1s0x8428af3d836a4869:0xfca64d39009b54de!8m2!3d20.7215304!4d-103.4298175?hl=es-419)
     actions:
       - label: Contacto
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: bottom
     align: center
