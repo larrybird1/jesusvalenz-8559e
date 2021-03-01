@@ -407,12 +407,17 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >+
+          Tenía una hernia y un amigo me recomendó que viera al Dr jesus, y la
+          verdad me gusto su profesión de explicar las cosas por detalle y
+          decidimos programar la operación en el hospital Maria auxiliará y la
+          atención que tuve ahí con todo el personal fue excelente lo recomiendo
+          el 100%. Soy Americano  y la verdad estuve muy sorprendido con toda la
+          atención que tuve  en el tiempo que estuve en el hospital.
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **neil Judeh**
+
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
