@@ -418,7 +418,7 @@ sections:
 
           **neil Judeh**
 
-        image: images/gordon-norman.png
+        image: images/neil.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
