@@ -394,12 +394,15 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Un agradecimiento especial al Dr Valenzuela, equipo a la vanguardia,
+          profesionalismo y gran humanismo lo identifica, gracias a su
+          diagnóstico y tratamiento acertados, modifico un escenario sombrío
+          como lo es el cáncer de colon, hacia una nueva esperanza y sobre todo
+          calidad de vida.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Mary Varela Busaka**
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
