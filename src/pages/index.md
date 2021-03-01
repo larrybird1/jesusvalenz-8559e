@@ -391,6 +391,10 @@ sections:
         image_alt: Brandon Guidelines
         media_position: right
         media_width: thirty-three
+        title: >-
+          COMPROMISO ÉTICA HONESTIDAD AMPLIA EXPERIENCIA HORARIOS
+          FLEXIBLESCOMPROMISO ÉTICA HONESTIDAD AMPLIA EXPERIENCIA HORARIOS
+          FLEXIBLES
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
