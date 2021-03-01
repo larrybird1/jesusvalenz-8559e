@@ -393,8 +393,7 @@ sections:
         media_width: thirty-three
         title: >-
           COMPROMISO ÉTICA HONESTIDAD AMPLIA EXPERIENCIA HORARIOS
-          FLEXIBLESCOMPROMISO ÉTICA HONESTIDAD AMPLIA EXPERIENCIA HORARIOS
-          FLEXIBLES
+          FLEXIBLESCOMPROMISO ÉTICA HONESTI
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
