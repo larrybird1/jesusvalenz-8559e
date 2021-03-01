@@ -366,7 +366,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Reseñas Reales desde Google Place
-    subtitle: Grid Section Example
+    subtitle: Amplia experiencia en sector médico público y privado
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
