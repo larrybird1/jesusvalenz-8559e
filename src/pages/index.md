@@ -298,7 +298,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: fifty
-        align: right
+        align: left
       - title: Resolvamos su problema de salud
         content: |
           Otros métodos de diagnóstico:
