@@ -300,10 +300,24 @@ sections:
         media_width: fifty
         align: right
       - title: Resolvamos su problema de salud
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: |
+          Otros métodos de diagnóstico:
+
+          *   Análisis de heces
+
+          *   Endoscopia
+
+          *   Manometría anorrectal
+
+          *   Endosonografía
+
+          *   Pruebas nerviosas
+
+          *   Defecografía por resonancia magnética
+
+          *   Prueba de expulsión de balón
+
+          *   Colonoscopia
         actions:
           - label: Learn More
             url: /style-guide
