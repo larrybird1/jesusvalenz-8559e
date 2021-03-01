@@ -461,10 +461,19 @@ sections:
     background_color: none
   - type: cta_section
     title: Atención en cómodas instalaciones
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: >
+      Consultorios ubicados en:
+
+
+      [Av. Juan Palomar y Arias 646, Prados Providencia, Gdl. Jal.
+      44670](https://www.google.com/maps/place/Av.+Juan+Palomar+y+Arias+646,+Prados+Providencia,+44670+Guadalajara,+Jal./@20.6881736,-103.3952617,17z/data=!3m1!4b1!4m5!3m4!1s0x8428ae42d42933e9:0xd88605acef295405!8m2!3d20.6881736!4d-103.393073)
+
+
+      y
+
+
+      [Hospital Real San José Valle
+      Real](https://www.google.com/maps/place/Hospital+Real+San+Jose+Valle+Real/@20.7215354,-103.4320062,17z/data=!3m1!4b1!4m5!3m4!1s0x8428af3d836a4869:0xfca64d39009b54de!8m2!3d20.7215304!4d-103.4298175?hl=es-419)
     actions:
       - label: Button
         url: /pricing
