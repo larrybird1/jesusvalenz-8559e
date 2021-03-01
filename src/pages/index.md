@@ -353,7 +353,6 @@ sections:
     background_color: secondary
     title: Vanguardia en Detección
   - type: grid_section
-    title: Image Grid
     align: center
     grid_items:
       - image: images/logo-1.svg
