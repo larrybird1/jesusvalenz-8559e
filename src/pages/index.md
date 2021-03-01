@@ -417,7 +417,7 @@ sections:
       - label: Google Place
         url: >-
           https://www.google.com/maps/place/Dr.+Jes%C3%BAs+Alonso+Valenzuela+P%C3%A9rez/@20.7217485,-103.4318502,17z/data=!3m1!4b1!4m5!3m4!1s0x8428ae424c44c871:0x55f1bbc61054b413!8m2!3d20.7217485!4d-103.4296615
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
