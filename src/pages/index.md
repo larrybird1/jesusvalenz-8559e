@@ -81,7 +81,7 @@ sections:
         actions_align: left
         image: images/tratamiento-hemorroides-en-guadalajara.png
         image_alt: Section item 1 icon
-        image_position: right
+        image_position: top
         image_align: left
         image_has_padding: true
       - title: Cáncer
