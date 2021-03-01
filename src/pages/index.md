@@ -368,12 +368,15 @@ sections:
     title: Reseñas Reales desde Google Place
     subtitle: Amplia experiencia en sector médico público y privado
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Me operó de emergencia el apéndice por vía laparoscópica (le tomó 15
+          minutos literalmente) y la verdad creo que no pude estar en mejores
+          manos. Es un profesional muy humano en su trato y respondió todas mis
+          preguntas con honestidad y claridad. Mi recuperación fue muy rápida.
+          Recomendado.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Gerardo Cruz**
         image: images/hanson-deck.png
         image_alt: Hanson Deck
         image_position: left
