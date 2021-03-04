@@ -27,11 +27,6 @@ sections:
         subtitle: >-
           Me caracteriza el trato profesional, personalizado y con respeto hacia
           mis pacientes entendiendo sus necesidades y situación particular
-        video_embed_html: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
       - title: Section Title Three
