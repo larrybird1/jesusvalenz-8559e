@@ -10,6 +10,7 @@ sections:
       que me ha permitido tratar todo tipo de enfermedades de colon, recto y
       ano.
     background_color: primary
+    background_image: images/operacion-de-vesicula-en-guadalajara.jpg
   - type: features_section
     features:
       - title: Capacitación constante
