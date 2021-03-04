@@ -90,6 +90,7 @@ sections:
       - label: Compare Plans
         url: /pricing
         style: primary
+        has_icon: true
     actions_position: right
     align: left
     padding_top: medium
