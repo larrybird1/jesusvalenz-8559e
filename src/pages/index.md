@@ -441,7 +441,7 @@ sections:
   - type: blog_feed_section
     subtitle: Blog
     actions:
-      - label: View All
+      - label: Ir a blog
         url: /blog
         style: primary
     blog_feed_cols: three
