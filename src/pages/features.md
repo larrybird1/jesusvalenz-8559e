@@ -53,12 +53,14 @@ sections:
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          Un excelente Doctor y con un gran sentido humano, hoy y siempre mi
+          agradecimiento por haberme operado y haciéndolo con un excelente
+          profesionalismo, que Dios bendiga tu profesión y a toda tu familia, de
+          corazón lo dice tu amigo y paciente por siempre
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Filiberto Villaseñor**
         image: images/gordon-norman.png
         image_alt: Gordon Norman
         image_position: left
