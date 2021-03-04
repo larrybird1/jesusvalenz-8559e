@@ -6,7 +6,9 @@ sections:
     subtitle: >-
       Siempre quise llegar a la raíz de los problemas y resolverlos de la mejor
       forma, la cirugía gastrointestinal y colo proctología me permiten ayudar a
-      mis pacientes.
+      mis pacientes. Cuento con experiencia en sector público como privado, lo
+      que me ha permitido tratar todo tipo de enfermedades de colon, recto y
+      ano.
     background_color: primary
   - type: features_section
     features:
