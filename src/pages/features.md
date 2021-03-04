@@ -88,7 +88,7 @@ sections:
       Agende su cita hoy mismo
     actions:
       - label: Contacto
-        url: /pricing
+        url: /contact
         style: primary
         has_icon: false
     actions_position: right
