@@ -63,6 +63,7 @@ sections:
     grid_gap_vert: large
     align: center
     background_color: secondary
+    title: Testimonios Pacientes
   - type: cta_section
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
