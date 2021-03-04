@@ -87,7 +87,7 @@ sections:
     content: |
       Agende su cita hoy mismo
     actions:
-      - label: Compare Plans
+      - label: Contacto
         url: /pricing
         style: primary
         has_icon: false
