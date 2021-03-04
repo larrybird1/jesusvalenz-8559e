@@ -80,6 +80,8 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        url: >-
+          https://www.google.com/maps/place/Dr.+Jes%C3%BAs+Alonso+Valenzuela+P%C3%A9rez/@20.7217485,-103.4318502,17z/data=!4m7!3m6!1s0x8428ae424c44c871:0x55f1bbc61054b413!8m2!3d20.7217485!4d-103.4296615!9m1!1b1
   - type: cta_section
     title: This is a Call to Action
     content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
