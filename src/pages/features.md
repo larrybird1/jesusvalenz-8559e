@@ -26,7 +26,7 @@ sections:
           coloproctólogos a nivel mundial.
         image: images/dr.valenzuela.jpeg
         image_alt: Top view of business meeting
-        media_position: right
+        media_position: left
         media_width: fifty
       - title: Honestidad y Compromiso
         subtitle: >-
