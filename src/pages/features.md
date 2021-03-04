@@ -38,12 +38,17 @@ sections:
   - type: grid_section
     subtitle: Google Places
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >+
+          Mi más profundo agradecimiento y admiración para el doctor jesus
+          Alonzo Valenzuela Pérez excelente médico y sobre todo una calidad
+          humana excelentísima en hora buena bendiciones mi doctor.
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Gladys Sofia Avalos Morales**
+
+
+
+
         image: images/eleanor-carr.png
         image_alt: Eleanor Carr
         image_position: left
