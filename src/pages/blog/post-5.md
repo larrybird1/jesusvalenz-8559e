@@ -1,5 +1,5 @@
 ---
-title: '31 de Marzo, día '
+title: '31 de Marzo, día mundial en contra del cáncer de colon'
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
