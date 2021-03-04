@@ -344,7 +344,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/cirugia laparoscopica en guadalajara.jpg
+        image: images/cirugia laparoscopica en Guadalajara jalisco.jpg
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: fifty
