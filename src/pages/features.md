@@ -73,7 +73,6 @@ sections:
     title: Testimonios Pacientes
     actions:
       - label: Google place
-        url: '#'
         style: link
         has_icon: false
         icon: arrow-left
