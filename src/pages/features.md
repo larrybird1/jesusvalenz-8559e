@@ -19,7 +19,7 @@ sections:
           de colon, recto y ano la [SMCRCA.COM](https://smcrca.com), nuestra
           misión en la sociedad es intercambiar conocimiento con sociedades de
           coloproctólogos a nivel mundial.
-        image: images/about-3.jpg
+        image: images/dr.valenzuela.jpeg
         image_alt: Top view of business meeting
         media_position: right
         media_width: fifty
