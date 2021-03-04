@@ -61,7 +61,7 @@ sections:
 
 
           **Filiberto Villaseñor**
-        image: images/gordon-norman.png
+        image: images/filiberto.png
         image_alt: Gordon Norman
         image_position: left
         image_width: twenty-five
