@@ -24,7 +24,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Honestidad y Compromiso
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: >-
+          Me caracteriza el trato profesional, personalizado y con respeto hacia
+          mis pacientes entendiendo sus necesidades y situación particular
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
