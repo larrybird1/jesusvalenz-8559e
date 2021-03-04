@@ -30,7 +30,7 @@ sections:
           particular
         media_position: left
         media_width: fifty
-        image: images/cirugía de cáncer de colon en Guadalajara.jpg
+        image: images/tatamiento de colitis ulcerosa en guadalajara.jpg
         content: "Médico Adscrito. Colon y Recto. Hospital Civil de Guadalajara\n\n### Certificación: C11005518\n\n**FORMACIÓN**\n\n•\_**Fellowship.**\_Coloproctología. Hospital Civil de Guadalajara\n•\_**Especialidad**. Cirugía General. Universidad de Guadalajara (UdeG). Guadalajara. 2011\n•\_**Licenciatura**.\_**Médico Cirujano.**\_Universidad Autónoma de Sinaloa (UAS). Sinaloa. 2005\n\n**IDIOMAS**\n\nEspañol, Inglés\n\nConstantes seminarios y actualizaciones a nivel nacional e internacional.\n\nel Dr. Valenzuela Pérez es reconocido como uno de los mejores especialistas en Cirugía General de Guadalajara, Jalisco.\n"
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
