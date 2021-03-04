@@ -29,6 +29,7 @@ sections:
           mis pacientes entendiendo sus necesidades y situación particular
         media_position: left
         media_width: fifty
+        image: images/cirugía de cáncer de colon en Guadalajara.jpg
       - title: Section Title Three
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
