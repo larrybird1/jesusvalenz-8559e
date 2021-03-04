@@ -319,7 +319,7 @@ sections:
 
           *   Colonoscopia
         actions:
-          - label: Learn More
+          - label: Más información
             url: /style-guide
             style: primary
             has_icon: true
