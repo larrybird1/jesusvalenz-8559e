@@ -14,10 +14,11 @@ sections:
         subtitle: >-
           La ciencia médica está en constante evolución, es necesario
           actualizarse
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Actualmente funjo como presidente de la sociedad mexicana de cirujanos
+          de colon, recto y ano la [SMCRCA.COM](https://smcrca.com), nuestra
+          misión en la sociedad es intercambiar conocimiento con sociedades de
+          coloproctólogos a nivel mundial.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
