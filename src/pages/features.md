@@ -3,7 +3,10 @@ title: Features
 sections:
   - type: hero_section
     title: ¿Porqué soy cirujano?
-    subtitle: Features Page Demo
+    subtitle: >-
+      Siempre quise llegar a la raíz de los problemas y resolverlos de la mejor
+      forma, la cirugía gastrointestinal y colo proctología me permiten ayudar a
+      mis pacientes.
     background_color: primary
   - type: features_section
     features:
