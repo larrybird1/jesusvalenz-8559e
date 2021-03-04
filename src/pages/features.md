@@ -72,7 +72,7 @@ sections:
     background_color: secondary
     title: Testimonios Pacientes
     actions:
-      - label: lorem-ipsum
+      - label: Google place
         url: '#'
         style: link
         has_icon: false
