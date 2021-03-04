@@ -440,7 +440,7 @@ sections:
         type: action
   - type: blog_feed_section
     title: What's New
-    subtitle: Blog Feed Section Example
+    subtitle: Blog Novades
     actions:
       - label: View All
         url: /blog
