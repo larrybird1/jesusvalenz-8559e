@@ -26,7 +26,8 @@ sections:
       - title: Honestidad y Compromiso
         subtitle: >-
           Me caracteriza el trato profesional, personalizado y con respeto hacia
-          mis pacientes entendiendo sus necesidades y situación particular
+          mis pacientes entendiendo antes que nada sus necesidades y situación
+          particular
         media_position: left
         media_width: fifty
         image: images/cirugía de cáncer de colon en Guadalajara.jpg
