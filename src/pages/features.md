@@ -44,7 +44,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-    feature_padding_vert: medium
+    feature_padding_vert: small
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
