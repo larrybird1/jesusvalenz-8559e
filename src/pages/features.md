@@ -12,8 +12,8 @@ sections:
     features:
       - title: Capacitación constante
         subtitle: >-
-          La ciencia médica está en constante evolución, es necesario
-          actualizarse
+          La ciencia médica está en constante evolución, es necesario estar a la
+          vanguardia para implementar la solución ideal para cada paciente
         content: >
           Actualmente funjo como presidente de la sociedad mexicana de cirujanos
           de colon, recto y ano la [SMCRCA.COM](https://smcrca.com), nuestra
