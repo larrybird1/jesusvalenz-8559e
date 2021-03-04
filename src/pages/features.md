@@ -27,10 +27,6 @@ sections:
         subtitle: >-
           Me caracteriza el trato profesional, personalizado y con respeto hacia
           mis pacientes entendiendo sus necesidades y situación particular
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
         video_embed_html: >-
           <iframe width="560" height="315"
           src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
