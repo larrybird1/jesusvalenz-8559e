@@ -155,7 +155,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Doctor Jesús Valenzuela. Todos los derechos reservados. Diseño web <a href=\"https://webbbli.com-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; Doctor Jesús Valenzuela. Todos los derechos reservados. Diseño web <a href=\"https://webbbli.com-footer\" target=\"_blank\" rel=\"noopener\"></a>. Create yours <a href=\"https://app.stackbit.com/create?theme=diy&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
     "title": "Cirujano Coloproctólogo en Guadalajara",
     "domain": "https://jesusvalenz-8559e.netlify.app",
