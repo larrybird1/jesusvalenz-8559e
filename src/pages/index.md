@@ -338,7 +338,7 @@ sections:
           es que en realidad se necesita menos analgésico para realizar la
           cirugía y después de la cirugía.
         actions:
-          - label: Learn More
+          - label: Más información
             url: /style-guide
             style: primary
             has_icon: true
