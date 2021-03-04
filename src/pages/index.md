@@ -439,7 +439,7 @@ sections:
         no_follow: false
         type: action
   - type: blog_feed_section
-    subtitle: Blog Novades
+    subtitle: Blog
     actions:
       - label: View All
         url: /blog
