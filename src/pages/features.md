@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Acerca de mi
 sections:
   - type: hero_section
     title: ¿Porqué soy cirujano?
