@@ -11,6 +11,7 @@ sections:
       ano.
     background_color: primary
     background_image: images/operacion-de-vesicula-en-guadalajara.jpg
+    background_image_opacity: 80
   - type: features_section
     features:
       - title: Capacitación constante
