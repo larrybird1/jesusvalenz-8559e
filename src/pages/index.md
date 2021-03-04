@@ -439,7 +439,6 @@ sections:
         no_follow: false
         type: action
   - type: blog_feed_section
-    title: What's New
     subtitle: Blog Novades
     actions:
       - label: View All
