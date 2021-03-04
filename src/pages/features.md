@@ -49,7 +49,7 @@ sections:
 
 
 
-        image: images/eleanor-carr.png
+        image: images/google1.png
         image_alt: Eleanor Carr
         image_position: left
         image_width: twenty-five
