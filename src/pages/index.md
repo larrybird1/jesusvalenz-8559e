@@ -458,6 +458,7 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
+    title: Novedades y Noticias
   - type: cta_section
     title: Atención en cómodas instalaciones
     content: >
