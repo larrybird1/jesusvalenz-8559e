@@ -485,7 +485,6 @@ sections:
     background_color: secondary
 seo:
   title: 'Top 1 Tratamiento de hemorroides en Guadalajara, Cirujano'
-  description: The preview of the DIY theme
   extra:
     - name: 'og:type'
       value: website
