@@ -484,7 +484,7 @@ sections:
     padding_bottom: large
     background_color: secondary
 seo:
-  title: Stackbit DIY Theme
+  title: 'Top 1 Tratamiento de hemorroides en Guadalajara, Cirujano'
   description: The preview of the DIY theme
   extra:
     - name: 'og:type'
